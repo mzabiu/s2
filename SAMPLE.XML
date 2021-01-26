@@ -1,0 +1,31 @@
+<HTML>
+	<HEAD>
+		<TITLE NAME="table xpath"></TITLE>
+	</HEAD>
+	<BODY>
+
+		<table name="cart summary" border="1">
+			<tbody>
+				<tr name="header">
+					<th>sl no</th>
+					<th>product name</th>
+					<th>Quantity</th>
+					<th>
+						Delete
+					</th>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>iphone mini 12</td>
+					<td>1</td>
+					<td>68000</td>
+					<td>
+						<a href="">Delete</a>
+					</td>
+				</tr>
+			</tbody>
+
+		</table>
+
+	</BODY>
+</HTML>
